@@ -1,0 +1,27 @@
+#command for creating venv
+    python3 -m venv nameofvenv
+
+#activate venv
+    source nameofvenv/bin/activate
+
+#deactive envirement
+    deactive
+
+#delete envirement
+    rm -rf nameofvenv/
+
+#see the envirement 
+    which python
+
+#requirements
+
+    flask>=1.1.2, <2.0
+    requests
+
+    # fo to terminal and type 
+    #         pip install -r requirements.txt
+
+
+    #create requirement.txt
+        pip freeze > requirements.txt
+

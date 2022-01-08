@@ -1,0 +1,8 @@
+#Here is written all the staff connected with GIT and GITHUB
+
+1. In default directory create hidden file
+   $ mkdir .ssh
+
+2. $ cd .ssh
+
+3. $ ssh-keygen.exe
