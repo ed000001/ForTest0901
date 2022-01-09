@@ -5,4 +5,10 @@
 
 2. $ cd .ssh
 
-3. $ ssh-keygen.exe
+3. crete ssh key
+ $ ssh-keygen 
+
+4. add the key to your GITHUB account
+
+5. use git link to push your project
+
